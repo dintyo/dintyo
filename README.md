@@ -1,1 +1,3 @@
-🛒 E-commerce operator turned engineer. 15+ years scaling stores to 8 figures. Shopify OS 2.0 · Automation · Data Pipelines · Performance-first builds.
+🚀 Founder-engineer building high-performance e-commerce systems
+🧠 Shopify OS 2.0, custom architectures, automation, and data pipelines
+📈 I design and ship scalable code that directly drives revenue
